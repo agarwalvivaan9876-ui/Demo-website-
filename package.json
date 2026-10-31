@@ -1,0 +1,10 @@
+{
+  "name": "dentacare-dental-studio",
+  "version": "1.0.0",
+  "description": "Premium demonstration website for the fictional DentaCare Dental Studio, Lucknow.",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
